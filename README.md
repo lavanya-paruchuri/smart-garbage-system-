@@ -71,7 +71,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For further inquiries or contributions, please contact lavanya paruchuri at lavanyaparuchuri20@gmail.com.
 
----
-
-**Note**: This README file provides a basic overview of the Smart Waste Management System. For detailed instructions and technical specifications, please refer to the documentation provided with the hardware and software components.
-
