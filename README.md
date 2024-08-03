@@ -69,7 +69,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For further inquiries or contributions, please contact [Your Name] at [Your Email Address].
+For further inquiries or contributions, please contact lavanya paruchuri at lavanyaparuchuri20@gmail.com.
 
 ---
 
